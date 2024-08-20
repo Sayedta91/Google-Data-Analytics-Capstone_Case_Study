@@ -18,4 +18,4 @@ Tools Used:
 
 Python for Data Cleaning, Data Transformation and Data Visualisation
 
-Data Set is public available on [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)
+Data Set is publicly available on [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)
