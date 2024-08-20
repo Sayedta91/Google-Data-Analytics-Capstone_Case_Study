@@ -14,7 +14,8 @@ Business Objectives
     2. How could these trends apply to Bellabeat customers?
     3. How could these trends help influence Bellabeat marketing strategy?
     
-Tools Used
+Tools Used:
+
 Python for Data Cleaning, Data Transformation and Data Visualisation
 
 Data Set is public available on [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)
